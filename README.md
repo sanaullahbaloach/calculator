@@ -2,7 +2,7 @@
 title: Calculator App
 emoji: 📈
 colorFrom: indigo
-colorTo: pink
+colorTo: grey
 sdk: streamlit
 sdk_version: 1.49.1
 app_file: app.py
